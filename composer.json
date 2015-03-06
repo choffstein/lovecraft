@@ -10,10 +10,6 @@
 			"role": "Developer"
 		}
 	],
-	"support": {
-		"issues": "https://github.com/richardtape/lovecraft/issues",
-		"source": "https://themes.svn.wordpress.org/lovecraft/"
-	},
 	"license": "GPL",
 	"require": {
 		"php": ">=5.4",
