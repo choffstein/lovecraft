@@ -1,0 +1,26 @@
+{
+	"name": "richardtape/lovecraft",
+	"description": "Lovecraft is a beautiful two-column theme for bloggers. It features a responsive design, great typography, a full-width header image (which is replaced with the post thumbnail on single posts/pages), custom accent color support, custom logo support, editor style support, a Flickr widget, recent posts and recent comments widgets with thumbnails, and a full-width template.",
+	"keywords": ["wordpress", "theme"],
+	"type": "wordpress-theme",
+	"authors": [
+		{
+			"name": "Anders Noren",
+			"homepage": "http://www.andersnoren.se/",
+			"role": "Developer"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/richardtape/lovecraft/issues",
+		"source": "https://themes.svn.wordpress.org/lovecraft/"
+	},
+	"license": "GPL",
+	"require": {
+		"php": ">=5.4",
+		"composer/installers": "~1.0",
+	},
+	"autoload": {
+	},
+	"config": {
+	}
+}
